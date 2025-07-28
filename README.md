@@ -19,7 +19,7 @@ It supports validation for sign in, sign up and end-to-end order lifecycle testi
 ```sh
  |- tests # Test spec files
  |- page-objects # Page Object Models
- |- utl # Test data
+ |- utl # Test data, Fixtures, Helper
  |- playwright.config.ts # Playwright configuration
  |- README.md # Project documentation
 ```
